@@ -1,0 +1,15 @@
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/TreinoPOOHeranca.csproj.AssemblyReference.cache
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/TreinoPOOHeranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/TreinoPOOHeranca.AssemblyInfoInputs.cache
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/TreinoPOOHeranca.AssemblyInfo.cs
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/TreinoPOOHeranca.csproj.CoreCompileInputs.cache
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/bin/Debug/net6.0/TreinoPOOHeranca
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/bin/Debug/net6.0/TreinoPOOHeranca.deps.json
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/bin/Debug/net6.0/TreinoPOOHeranca.runtimeconfig.json
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/bin/Debug/net6.0/TreinoPOOHeranca.dll
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/bin/Debug/net6.0/TreinoPOOHeranca.pdb
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/TreinoPOOHeranca.dll
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/refint/TreinoPOOHeranca.dll
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/TreinoPOOHeranca.pdb
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/TreinoPOOHeranca.genruntimeconfig.cache
+/home/andersonpereira/Documentos/HerancaPolimorfismo/TreinoPOOHeranca/obj/Debug/net6.0/ref/TreinoPOOHeranca.dll
